@@ -26,11 +26,6 @@ időt . Ezt az eszközt elsősorban digitális audio feldolgozáshoz használtam
 alkalmazásom fő eleme a hang analizálás így a különböző funkciók hátterét ez a könyvtár 
 biztosítja.
 
-- Audacity digitális audió-szerkesztő
-Az Audacity egy nyílt forráskódú digitális audio-szerkesztő program számos 
-rendeltetéssel. A programot a hangsávok és frekvencia spektrumok vizuális 
-reprezentálására használtam.
-
 - Hangszer és erősítő
 A programomon való tesztelést két különböző elektromos gitárral végeztem. A 
 hangszerem hangja egy hang modellező gitár erősítőn keresztül kapcsolódik a 
